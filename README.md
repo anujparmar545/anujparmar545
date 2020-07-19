@@ -5,12 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ... Angular and Spring boot
+- 🔭 I’m currently working on ... Cross Platform Mobile Application using Ionic Angular and Spring boot
 - 🌱 I’m currently learning ...Data science and Cloud computing
-- 👯 I’m looking to collaborate on ...DevOps
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on ...DevOps and CI/CD pipelines
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... github.com/anujparmar545
+- 📫 How to reach me: ... https://github.com/anujparmar545 , https://www.facebook.com/anuj.parmar.378
 
 
 
