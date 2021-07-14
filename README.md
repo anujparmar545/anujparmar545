@@ -1,5 +1,5 @@
 <!-- Following line will add trophies to the github Dashboard-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=anujparmar545)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anujparmar545&row=1&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Hi there 👋
 
