@@ -1,6 +1,11 @@
 <!-- Following line will add trophies to the github Dashboard-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=anujparmar545&row=1&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!-- Following lines will add stats to the github Dashboard-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujparmar545&theme=graywhite&icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujparmar545&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 
 <!--
