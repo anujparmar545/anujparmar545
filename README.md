@@ -9,7 +9,7 @@
 <a href="https://github.com/anujparmar545">
   <img align="center" height="180em" style="max-width:100%" src="https://github-readme-stats.vercel.app/api?username=anujparmar545&theme=graywhite&icons=true" />
 </a>
-<a style="margin-left:87px" href="https://github.com/anujparmar545t">
+<a style="margin-left:87px" href="https://github.com/anujparmar545">
   <img align="center" height="180em" style="max-width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujparmar545&layout=compact" />
 </a>
 
