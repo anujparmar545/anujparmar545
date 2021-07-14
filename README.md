@@ -12,4 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... https://github.com/anujparmar545 , https://www.facebook.com/anuj.parmar.378
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=anujparmar545)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
