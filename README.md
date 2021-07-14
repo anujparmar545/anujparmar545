@@ -7,10 +7,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujparmar545&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anujparmar545">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anujparmar545&theme=graywhite&icons=true" />
+  <img align="center" style="height:180em" src="https://github-readme-stats.vercel.app/api?username=anujparmar545&theme=graywhite&icons=true" />
 </a>
 <a href="https://github.com/anujparmar545t">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujparmar545&layout=compact" />
+  <img align="center" style="height:180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujparmar545&layout=compact" />
 </a>
 
 
